@@ -1,4 +1,4 @@
-# Bilsoft-Teknik-Servis-Web-Sitesi-Frontent-
+# Bilsoft Teknik Servis Web Sitesi
 Takım Arkadaşım ile gönüllü stajımız kapsamında gerçeklştirdiğimiz bir web sitesi. Html ve css ile yapılmıştır.
 Proje Dair Birkaç Fotoğraf ve Özelikler;
 
