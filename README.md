@@ -13,10 +13,10 @@ Proje Dair Birkaç Fotoğraf ve Özelikler;
 - Deneme Sürümü: Kullanıcılara ürünü test etme fırsatı sunan "Hemen 14 Gün Boyunca Ücretsiz Dene" seçeneği ve ilgili indirme butonu mevcut.
 
 # Anasayfa Fotoğralar
-<img width="1895" height="913" alt="image" src="https://github.com/user-attachments/assets/4e41ac9e-dadc-484a-a533-1e3c72ce5f77" />
-<img width="1902" height="908" alt="image" src="https://github.com/user-attachments/assets/c1f7c42e-06fc-4e0e-932a-f21c8ad3a91c" />
-<img width="1911" height="909" alt="image" src="https://github.com/user-attachments/assets/8a202836-9264-46dc-9650-cba4dac974a7" />
-<img width="1896" height="905" alt="image" src="https://github.com/user-attachments/assets/e037f72b-f5a6-4ed6-b6ad-b7193b08b438" />
+<img width="1897" height="901" alt="image" src="https://github.com/user-attachments/assets/9216b95c-01ef-4612-be93-fc0700e3ae59" />
+<img width="1898" height="910" alt="image" src="https://github.com/user-attachments/assets/029ed7d1-ff8b-4ace-97e4-21aed2747584" />
+<img width="1888" height="906" alt="image" src="https://github.com/user-attachments/assets/d35450d1-7d9b-431a-b065-f49105fb38ec" />
+<img width="1896" height="908" alt="image" src="https://github.com/user-attachments/assets/f3f03bfa-3701-4011-8e37-1fedeee0b789" />
 
 # Özellikler Özellikler
 - Detaylı Program Özellikleri: Sayfada, programımızın temel özelliklerini anlatan animasyonlu kutular bulunur. Bu kutular, Servis Kaydı ve Teslim Formu Bastırma, Kategori Bazlı Cihaz Takibi, Başlıklı SMS Gönderme, Tamamlanmayan Cihazların Kontrolü, Barkod Etiketi Bastırma, Detaylı Sorgu Raporu, Dış Servislerin Kontrolü ve Kullanıcı Tanımlama gibi önemli işlevleri açıklar. Her bir özellik, servis süreçlerinizi daha verimli hale getirmek için tasarlanmıştır.
