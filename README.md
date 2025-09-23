@@ -23,10 +23,11 @@ Proje Dair Birkaç Fotoğraf ve Özelikler;
 - Platformlar Arası Görseller: Programın arayüzü, Web, Mobil ve Masaüstü platformlarına özel görsellerle sunulur. Bu sayede, kullanıcılar programın her cihazda nasıl göründüğünü ve çalıştığını önceden görebilir. Ana Sayfa, Ana Gösterge Paneli, Servis Kayıtları ve Yeni Servis Kaydı gibi kilit ekranların görselleriyle program hakkında kapsamlı bir fikir edinilebilir.
 
 # Özelikler Fotoğraflar
-<img width="1903" height="912" alt="image" src="https://github.com/user-attachments/assets/b8b1d2d0-bf4f-441d-9b6f-8be07971a6e6" />
-<img width="1915" height="912" alt="image" src="https://github.com/user-attachments/assets/92a4c58d-2434-4bbc-83b5-6997942161f7" />
-<img width="1905" height="903" alt="image" src="https://github.com/user-attachments/assets/25c99ded-0b75-4139-84ab-3f5cf525da74" />
-<img width="1900" height="912" alt="image" src="https://github.com/user-attachments/assets/355cb9e4-0e1e-4db9-970f-15acaeea8457" />
+<img width="1888" height="905" alt="image" src="https://github.com/user-attachments/assets/27c30aeb-f51a-41e1-8439-fe71310bf29e" />
+<img width="1894" height="905" alt="image" src="https://github.com/user-attachments/assets/e3de25c9-1ef8-4131-aa16-35d3ac4d48b7" />
+<img width="1885" height="913" alt="image" src="https://github.com/user-attachments/assets/e9f038e6-b67d-4f67-99a9-3736dff56615" />
+<img width="1899" height="908" alt="image" src="https://github.com/user-attachments/assets/3d22686b-c8fd-4c03-a1a8-85de29d5dbb1" />
+
 
 # İletişim Özellikler
 - İletişim Formu: Kullanıcılar, ad, e-posta, konu ve mesaj alanlarını doldurarak doğrudan bize ulaşabilirler. Bu form aracılığıyla gönderilen mesajlar, anında ilgili ekibe iletilir.
@@ -36,8 +37,9 @@ Proje Dair Birkaç Fotoğraf ve Özelikler;
 - Sosyal Medya Bağlantıları: Sosyal medya hesaplarımız (X, Facebook, Instagram, LinkedIn) listelenmiştir. Bu bağlantılar, kullanıcıların bizi sosyal platformlarda takip etmelerine olanak tanır.
 
 # İletişim Fotoğraflar
-<img width="1896" height="907" alt="image" src="https://github.com/user-attachments/assets/9172edb0-2da5-40ce-b4b7-fe92ce1b3193" />
-<img width="1895" height="879" alt="image" src="https://github.com/user-attachments/assets/16ac12be-6729-405b-954d-01b36824c1f3" />
+<img width="1886" height="910" alt="image" src="https://github.com/user-attachments/assets/5fb2cf22-31cb-4e39-be89-8c072a7c4f76" />
+<img width="1897" height="913" alt="image" src="https://github.com/user-attachments/assets/864c83db-f9c5-4e3b-aa1c-98a10e905b05" />
+
 
 # Hakkımızda Özellikler
 - "Biz Kimiz?" Bölümü: Bu kısım, Bilsoft'un 2005 yılından bu yana edindiği yazılım geliştirme deneyimini vurgular ve Türkiye genelinde KOBİ'lerin dijital dönüşüm yolculuğuna nasıl öncülük ettiğini açıklar. Şirket, kullanıcı dostu arayüzleri, muhasebe entegrasyonu ve kapsamlı teknik destek hizmetleriyle öne çıkar.
@@ -46,9 +48,12 @@ Proje Dair Birkaç Fotoğraf ve Özelikler;
 - Kullanıcı Yorumları: Sayfanın sonunda yer alan kullanıcı yorumları bölümü, gerçek müşteri deneyimlerini yansıtarak potansiyel kullanıcılara güven verir. Bu geri bildirimler, programın günlük operasyonlarda sağladığı faydaları ve pratik çözümleri ortaya koyar.
 
 # Hakkımızda Fotoğraflar
-<img width="1900" height="904" alt="image" src="https://github.com/user-attachments/assets/8ad5ea51-88b8-4e74-aa63-8449af5c6328" />
-<img width="1912" height="910" alt="image" src="https://github.com/user-attachments/assets/10a7ad62-7ef2-4079-9ae7-a3e2451cf1fc" />
-<img width="1901" height="918" alt="image" src="https://github.com/user-attachments/assets/a0c2970c-96da-49d7-b11e-1dcf56d28e68" />
+<img width="1896" height="907" alt="image" src="https://github.com/user-attachments/assets/f091c048-ee8d-4bf1-8d41-0b6c06f01ad3" />
+<img width="1900" height="905" alt="image" src="https://github.com/user-attachments/assets/8452d829-828d-408a-8683-4a124a6da1e5" />
+<img width="1903" height="909" alt="image" src="https://github.com/user-attachments/assets/c0de7f7e-1e8e-44af-94c8-14de8afcc70d" />
+<img width="1891" height="910" alt="image" src="https://github.com/user-attachments/assets/97eaf718-c6ee-4c0a-9dcb-2c68e24bcde4" />
+
+
 
 
 
